@@ -14,7 +14,7 @@ Modern Android uygulamalarında görülen çoklu seçim (multi-selection) arayü
 
 1. Projeyi klonlayın:
 ```bash
-git clone [git-url]
+git clone https://github.com/ZaferGuvenn/ComposeItemSelection.git
 ```
 
 2. Android Studio'da açın:
